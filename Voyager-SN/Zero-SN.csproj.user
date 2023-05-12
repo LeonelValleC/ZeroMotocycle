@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\mex-app-001\MEI_Apps\SetupZero\|\\192.168.1.4\ts%24\software\Software Masterwork\SetupZero\|\\192.168.1.4\ts%24\software\Software Masterwork\SetupCon-Voy\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\mex-app-001\MEI_Apps\SetupZero\|http://localhost/ZeroMotocycleSN/|http://localhost/VoyagerSN/|http://localhost:8080/|\\192.168.1.4\ts%24\software\Software Masterwork\SetupCon-Voy\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\mex-app-001\MEI_Apps\SetupZero\|\\192.168.1.4\ts%24\software\Software Masterwork\SetupZero\|\\192.168.1.4\ts%24\software\Software Masterwork\SetupCon-Voy\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

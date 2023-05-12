@@ -1,0 +1,7 @@
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\CompareSN\obj\Debug\CompareSN.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\CompareSN\obj\Debug\CompareSN.Form1.resources
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\CompareSN\obj\Debug\CompareSN.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\CompareSN\obj\Debug\CompareSN.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\CompareSN\obj\Debug\CompareSN.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\CompareSN\obj\Debug\CompareSN.exe
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\CompareSN\obj\Debug\CompareSN.pdb

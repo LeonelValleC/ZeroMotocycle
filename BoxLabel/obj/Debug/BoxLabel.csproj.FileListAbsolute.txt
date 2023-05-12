@@ -1,0 +1,7 @@
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\BoxLabel\obj\Debug\BoxLabel.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\BoxLabel\obj\Debug\Interop.BarTender.dll
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\BoxLabel\obj\Debug\BoxLabel.csproj.ResolveComReference.cache
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\BoxLabel\obj\Debug\BoxLabel.Form1.resources
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\BoxLabel\obj\Debug\BoxLabel.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\BoxLabel\obj\Debug\BoxLabel.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\ZeroMotocycle\BoxLabel\obj\Debug\BoxLabel.csproj.CoreCompileInputs.cache
